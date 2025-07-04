@@ -45,7 +45,7 @@ const texts = [
     ">
       <div><strong>Gia Bảo</strong></div>
       <div>🎂 03/07</div>
-      <div style="font-size: 18px; color: #FF69B4; margin-top: 10px;">🎉 Happy Birthday 🎉</div>
+      <div style="font-size: 15px; color: #FF69B4; margin-top: 10px;">🎉 Happy Birthday 🎉</div>
     </div>
   `;
   document.body.appendChild(info);
